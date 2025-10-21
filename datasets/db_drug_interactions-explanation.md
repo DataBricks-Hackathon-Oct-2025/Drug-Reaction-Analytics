@@ -6,9 +6,9 @@ Source: The dataset is derived from the datasets provided by the team at [TDComm
 
 ## Properties
 
-- **Drug 1**: Name of the first drug in the interaction.
-- **Drug 2**: Name of the second drug in the interaction.
-- **Interaction Description**: Detailed description of the interaction between the two drugs.
+- `Drug 1`: Name of the first drug in the interaction.
+- `Drug 2`: Name of the second drug in the interaction.
+- `Interaction Description`: Detailed description of the interaction between the two drugs.
 
 ## Data Source
 
